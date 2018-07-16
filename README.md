@@ -1,6 +1,6 @@
 # travel
 
-> A Vue.js project
+> 简单实现去哪儿网移动端
 
 ## Build Setup
 
