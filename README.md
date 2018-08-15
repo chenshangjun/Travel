@@ -1,21 +1,19 @@
-# travel
 
-> 简单实现去哪儿网移动端
+### 开发环境和技术栈
+ - 操作系统：window 10 64位
+ - 开发工具：Visual Studio Code
+ - 前端：Vue + Vuex + Vue-router + axios + Stylus
 
-## Build Setup
+### 运行项目
+1. 下载项目
+2. 安装依赖 `npm install`
+3. 启动项目 `npm run dev`
+4. 访问`http://localhost:8080`
 
-``` bash
-# install dependencies
-npm install
+### 效果图
+![image](https://github.com/chenshangjun/Travel/blob/master/example/preview/01.png)  
+![iamge](https://github.com/chenshangjun/Travel/blob/master/example/preview/02.png)  
+![iamge](https://github.com/chenshangjun/Travel/blob/master/example/preview/03.png)  
 
-# serve with hot reload at localhost:8080
-npm run dev
 
-# build for production with minification
-npm run build
 
-# build for production and view the bundle analyzer report
-npm run build --report
-```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
